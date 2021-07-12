@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is C80E-7796
+
+ Directory of C:\Users\krant\OneDrive\Desktop\my project
+
+12/07/2021  19:39    <DIR>          .
+12/07/2021  19:39    <DIR>          ..
+12/07/2021  19:39                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  73,128,083,456 bytes free
